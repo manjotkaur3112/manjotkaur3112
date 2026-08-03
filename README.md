@@ -91,7 +91,7 @@ Git • GitHub • VS Code • Docker • Linux
 
 ## 📊 GitHub Stats
 
-> Replace `[YOUR_USERNAME](https://github.com/manjotkaur3112/)` with your GitHub username.
+> [Replace `[YOUR_USERNAME](https://github.com/manjotkaur3112/)` with your GitHub username.](https://github.com/manjotkaur3112)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
@@ -101,9 +101,9 @@ Git • GitHub • VS Code • Docker • Linux
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *([Add your LinkedIn profile link](https://www.linkedin.com/in/manjot-kaur31/))*
-* 💻 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/manjotkaur3112/)
-* 🌐 Portfolio: [*(Add your portfolio URL when available)*](https://manjotkaur3112.github.io/portfolio/)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/manjot-kaur31/
+* 💻 **GitHub:** https://github.com/manjotkaur3112
+* 🌐 **Portfolio:** https://manjotkaur3112.github.io/portfolio/
 
 ---
 
