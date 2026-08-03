@@ -82,7 +82,7 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/manjot-kaur31/
-* GitHub: [https://github.com/your-username](https://github.com/manjotkaur3112)
+* LinkedIn: [*(Add your LinkedIn profile link)*](https://www.linkedin.com/in/manjot-kaur31/)
+* GitHub: [https://github.com/your-username](https://github.com/manjotkaur3112/)
 
 ⭐ Thanks for visiting my profile!
