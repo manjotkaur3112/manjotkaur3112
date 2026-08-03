@@ -91,11 +91,11 @@ Git • GitHub • VS Code • Docker • Linux
 
 ## 📊 GitHub Stats
 
-> [Replace `[YOUR_USERNAME](https://github.com/manjotkaur3112/)` with your GitHub username.](https://github.com/manjotkaur3112)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjotkaur3112\&show_icons=true\&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjotkaur3112\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=manjotkaur3112\&theme=tokyonight)
 
 ---
 
