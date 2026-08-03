@@ -91,12 +91,14 @@ Git • GitHub • VS Code • Docker • Linux
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjotkaur3112\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manjotkaur3112&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjotkaur3112&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjotkaur3112\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=manjotkaur3112\&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manjotkaur3112&theme=tokyonight" />
+</p>
 ---
 
 ## 📫 Connect With Me
