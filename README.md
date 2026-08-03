@@ -1,58 +1,21 @@
-# Hi there 👋 I'm Manjot Kaur
+# <h1 align="center">Hi 👋, I'm Manjot Kaur</h1>
 
-## 💫 About Me
+<h3 align="center">🎓 B.Tech Computer Science Engineering (Generative AI) | AI & Machine Learning Enthusiast | Full Stack Developer</h3>
 
-🎓 B.Tech Computer Science Engineering (Specialization in Generative AI)
-
-💻 Passionate about Artificial Intelligence, Machine Learning, and Full Stack Development.
-
-🚀 Completed an AI Internship at Anand Rathi IT Pvt. Ltd., where I developed an AI-powered Mutual Fund Recommendation System using Machine Learning.
-
-🌱 Currently learning advanced AI, Deep Learning, React, and Cloud Deployment.
-
-🎯 My goal is to become an AI Engineer and build intelligent applications that solve real-world problems.
+<p align="center">
+Passionate about building AI-powered applications that solve real-world problems using Machine Learning, Python, React, and Flask.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-### Languages
-
-* Python
-* Java
-* C
-* C++
-* JavaScript
-* SQL
-
-### Web Development
-
-* HTML
-* CSS
-* React.js
-* Flask
-* Node.js
-* Express.js
-
-### Machine Learning
-
-* Scikit-learn
-* Pandas
-* NumPy
-* Matplotlib
-
-### Database
-
-* MySQL
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Docker
-* Linux
+* 🎓 B.Tech CSE (Specialization in **Generative AI**)
+* 💼 Completed an **AI Internship** at **Anand Rathi IT Pvt. Ltd.**
+* 🤖 Interested in **Artificial Intelligence, Machine Learning, Generative AI, and Full Stack Development**
+* 🌱 Currently learning **Deep Learning, LLMs, Computer Vision, and Cloud Deployment**
+* 🚀 Love transforming ideas into real-world AI applications
+* 🎯 Aspiring AI Engineer focused on building impactful and scalable solutions
 
 ---
 
@@ -60,29 +23,92 @@
 
 ### 🤖 AI Mutual Fund Advisor
 
-* Machine Learning-based Mutual Fund Recommendation System
-* Flask + React
+**Tech Stack:** Python, Flask, React, Scikit-learn, Pandas
+
+✨ Features
+
+* AI-powered mutual fund recommendation system
 * Predicts expected returns
-* Interactive dashboard with analytics
-* Dataset preprocessing using Pandas
+* Interactive analytics dashboard
+* Data preprocessing and visualization
+* Responsive web interface
+
+🔗 **Live Demo:** https://mutualfund-advisor.vercel.app/
+
+---
 
 ### 😊 Emotion Detection System
 
-* Emotion Recognition using Machine Learning
+**Tech Stack:** Python, OpenCV, Scikit-learn, Flask
+
+✨ Features
+
+* Real-time emotion prediction
 * Image preprocessing
-* Real-time prediction interface
+* Machine Learning classification
+* User-friendly interface
 
-### 💰 Personal Expense Tracker
+---
 
-* Python desktop application
-* Expense management with CSV storage
-* Data visualization using Matplotlib
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+
+### Backend
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+
+### Tools
+
+Git • GitHub • VS Code • Docker • Linux
+
+---
+
+## 📊 GitHub Stats
+
+> Replace `YOUR_USERNAME` with your GitHub username.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: [*(Add your LinkedIn profile link)*](https://www.linkedin.com/in/manjot-kaur31/)
-* GitHub: [https://github.com/your-username](https://github.com/manjotkaur3112/)
+* 💼 LinkedIn: *([Add your LinkedIn profile link](https://www.linkedin.com/in/manjot-kaur31/))*
+* 💻 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/manjotkaur3112/)
+* 🌐 Portfolio: [*(Add your portfolio URL when available)*](https://manjotkaur3112.github.io/portfolio/)
 
-⭐ Thanks for visiting my profile!
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+<i>"Learning, building, and growing one project at a time."</i>
+</p>
