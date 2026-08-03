@@ -91,7 +91,7 @@ Git • GitHub • VS Code • Docker • Linux
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_USERNAME` with your GitHub username.
+> Replace `[YOUR_USERNAME](https://github.com/manjotkaur3112/)` with your GitHub username.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
