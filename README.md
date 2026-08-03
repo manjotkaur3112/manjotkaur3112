@@ -92,15 +92,7 @@ Git • GitHub • VS Code • Docker • Linux
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjotkaur3112&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjotkaur3112&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manjotkaur3112&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=manjotkaur3112&theme=tokyonight" />
 </p>
 ---
 
